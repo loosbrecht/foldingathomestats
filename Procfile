@@ -1,2 +1,2 @@
-web: java -jar target/foldingathomestats-1.0-SNAPSHOT.jar $PORT
-worker: sh target/bin/worker
+web: java -jar web/target/foldingathomestats-1.0-SNAPSHOT.jar $PORT
+worker: java -jar web/target/foldingathomestats-1.0-SNAPSHOT.jar

@@ -1,4 +1,5 @@
-/target/
+web/target
+worker/target
 .idea/
 .settings
 .project
@@ -8,7 +9,7 @@
 .DS_Store
 
 # The following files are generated/updated by vaadin-maven-plugin
-node_modules/
+web/node_modules/
 
 # Browser drivers for local integration tests
 drivers/
