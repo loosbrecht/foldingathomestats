@@ -1,5 +1,6 @@
 web/target
 worker/target
+core/target
 .idea/
 .settings
 .project
